@@ -1,0 +1,4 @@
+name: Punishments
+version: '${project.version}'
+main: me.mio.punishments.Punishments
+api-version: 1.17
